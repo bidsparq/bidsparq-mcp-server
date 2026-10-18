@@ -118,4 +118,4 @@ After install, ask your AI client:
 
 ## License
 
-MIT. Source: https://github.com/n0edlg/bidsparq-mcp-server
+MIT. Source: https://github.com/bidsparq/bidsparq-mcp-server

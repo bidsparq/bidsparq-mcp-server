@@ -1,6 +1,6 @@
 {
   "name": "bidsparq-mcp-server",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "mcpName": "com.bidsparq/mcp",
   "description": "BidSparq MCP server — query federal RFPs, subaward primes, pricing percentiles, wired-RFP signals, buyer-side procurement-officer contacts (Beacon), and federal contract vehicles / GWACs / GSA Schedules / BPAs from Claude Desktop, Claude Code, Cursor, and other MCP-compatible AI clients.",
   "keywords": [
@@ -14,11 +14,11 @@
   ],
   "homepage": "https://bidsparq.com/learn/mcp-setup",
   "bugs": {
-    "url": "https://github.com/n0edlg/bidsparq-mcp-server/issues"
+    "url": "https://github.com/bidsparq/bidsparq-mcp-server/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n0edlg/bidsparq-mcp-server.git"
+    "url": "git+https://github.com/bidsparq/bidsparq-mcp-server.git"
   },
   "license": "MIT",
   "type": "module",

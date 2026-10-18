@@ -4,9 +4,9 @@
   "title": "BidSparq",
   "description": "55 tools for federal/state/local RFPs, awards, vendors, contact graph, contract vehicles, pursuits.",
   "websiteUrl": "https://bidsparq.com/learn/mcp-setup",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "repository": {
-    "url": "https://github.com/n0edlg/bidsparq-mcp-server",
+    "url": "https://github.com/bidsparq/bidsparq-mcp-server",
     "source": "github"
   },
   "remotes": [
@@ -19,7 +19,7 @@
     {
       "registryType": "npm",
       "identifier": "bidsparq-mcp-server",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "transport": {
         "type": "stdio"
       },

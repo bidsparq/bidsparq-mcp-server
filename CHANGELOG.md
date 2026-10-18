@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.8 (2026-10-18)
+
+No tool changes. The source repository moved to the BidSparq organization: https://github.com/bidsparq/bidsparq-mcp-server (the previous address redirects). Package metadata and the MCP Registry manifest point at the new location.
+
 ## 0.1.7 (2026-05-29)
 
 Tool count: **49 → 55**. Six new federal contract vehicle tools — `find_contract_vehicles`, `get_vehicle_details`, `get_vehicle_orders`, `find_my_vehicle_opportunities` (Pro+), `vehicle_expiration_alerts` (Pro+), `analyze_vehicle_competition` (Pro Max). Backed by 60,000+ active federal IDVs ingested from USAspending — GWACs, GSA Schedules / FSS, BPAs, IDCs, BOAs. Closes the IDV / contract vehicle gap vs GovTribe at public pricing.
@@ -133,7 +137,7 @@ them.
 - Add `mcpName: com.bidsparq/mcp` field to package.json so the Official MCP
   Registry can cross-link the npm package to our DNS-verified namespace.
 - Bump server version reported via MCP `initialize` to match.
-- Source now public at https://github.com/n0edlg/bidsparq-mcp-server.
+- Source now public at https://github.com/bidsparq/bidsparq-mcp-server.
 
 ## 0.1.1 (2026-05-24)
 
